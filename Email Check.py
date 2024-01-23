@@ -7,9 +7,3 @@ if "gmail" in Your_Email:
         print("Your Email  is Valid 👍🏿👍🏾")
     else:
         print("Sorry This is Invalid Email  ❌‍💻🫥👎2 ")
-
-else:
-    print("Sorry This is Invalid Email ❌‍💻🫥👎1 ")
-    print("tset")
-    print("hello")
-
