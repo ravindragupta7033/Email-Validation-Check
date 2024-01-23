@@ -8,7 +8,5 @@ if "gmail" in Your_Email:
     else:
         print("Sorry This is Invalid Email  ❌‍💻🫥👎2 ")
 
-else:
-    print("Sorry This is Invalid Email ❌‍💻🫥👎1 ")
-    print("tset")
+
 
